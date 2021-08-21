@@ -1,0 +1,5 @@
+ctf{diffie_hellman}
+
+This is needed for some kind of calculation...?
+g^a mod p = 53883406480567171969894075214780366356
+g^b mod p = 70530636463343502853315863315068622556
